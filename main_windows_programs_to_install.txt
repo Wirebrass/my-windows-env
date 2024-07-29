@@ -1,14 +1,14 @@
-WSL2
-Terminal / Ubuntu
-VirtualBox
-Visual Studio Code
-Notepad++
-Keepass 2
 7-ZIP
 Filezilla
 Git Bash
-Mozilla Firefox
 Google Chrome
-Visio
+Keepass 2
+Mozilla Firefox
+Notepad++
 OneDrive
+Terminal / Ubuntu
+VirtualBox
+Visio
+Visual Studio Code
 Word/Excel/Visio/Teams/PowerPoint
+WSL2
